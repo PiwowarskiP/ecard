@@ -19,3 +19,10 @@ Adding new file to the repository
 ```sh
 git add <file name>
 ```````````
+
+Display differences between current and history states
+```sh
+git diff
+```
+
+
