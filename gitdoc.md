@@ -11,5 +11,11 @@ command itself
 
 Initialize new repository structure in current working directory
 ```sh
+git init <directory>
 
 ```
+## Local changes
+Adding new file to the repository
+```sh
+git add <file name>
+```````````
